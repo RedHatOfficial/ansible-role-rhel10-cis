@@ -1,7 +1,7 @@
 galaxy_info:
   role_name: rhel10_cis
   author: ComplianceAsCode development team
-  description: DRAFT - CIS Red Hat Enterprise Linux 10 Benchmark for Level 2 - Server
+  description: CIS Red Hat Enterprise Linux 10 Benchmark for Level 2 - Server
 
   issue_tracker_url: https://github.com/ComplianceAsCode/content/issues
 
